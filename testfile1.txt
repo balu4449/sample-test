@@ -7,4 +7,5 @@ This is commit 4--- GITCOmmint4
 
 
 This is feature1branch fqc1--- GITCOmmintfeature
+This is feature2branch f1c2--- GITCOmmintfeature
 
