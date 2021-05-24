@@ -3,3 +3,8 @@ This is commit 1--- GITCOmmint1
 This is commit 2--- GITCOmmint2
 This is commit 3--- GITCOmmint3
 This is commit 4--- GITCOmmint4
+
+
+
+This is feature1branch fqc1--- GITCOmmintfeature
+
